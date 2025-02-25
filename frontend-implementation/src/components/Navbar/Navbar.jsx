@@ -1,5 +1,5 @@
 import React from 'react'
-import freeroomsDoorClosed from '../../assets/freeroomsDoorClosed.png'
+import freeroomsDoorClosed from '../../../assets/freeroomsDoorClosed.png'
 import Navbtn from './Navbtn'
 
 const Navbar = () => {
